@@ -1,6 +1,5 @@
 # Spending-an-account
 
-There are convenient billing functions and budget functions to help you control your improper expenses.
 
 Spending an account
 
